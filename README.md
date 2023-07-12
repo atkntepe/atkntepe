@@ -12,8 +12,7 @@ I'm a UI Developer and the Lead Developer of PrimeFlex, a part of the renowned P
 * 🤝  I'm open to collaborating on fun projects that will help mostly devs and designers
 * ⚡  Let's collaborate and create great user experiences through good design and community engagement! 🚀
 
-<a href="https://www.github.com/atakantepe" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/atakantepe?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/atkntepe" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/atkntepe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/atkntepe?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 
