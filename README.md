@@ -8,7 +8,6 @@ I'm a UI Developer and the Lead Developer of PrimeFlex, a part of the renowned P
 
 * 🌍  I'm based in Turkey
 * 🚀  I'm currently working on [PrimeVue Unstyled POC](http://primevue.org/unstyled/)
-* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on fun projects that will help mostly devs and designers
 * ⚡  Let's collaborate and create great user experiences through good design and community engagement! 🚀
 
