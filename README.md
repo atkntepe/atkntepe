@@ -7,7 +7,7 @@ UI Developer & Lead Dev of Primeflex
 I'm a UI Developer and the Lead Developer of PrimeFlex, a part of the renowned Prime UI libraries like PrimeNG. My work involves creating intuitive and visually appealing user interfaces, strongly focusing on front-end technologies. One of the most rewarding aspects of my work is building and nurturing a passionate community around the products I develop. I firmly believe that an engaged and active user community is crucial for enhancing the product and driving its evolution. In addition to my professional work, I enjoy working on side projects, which allow me to explore new technologies and concepts.
 
 * 🌍  I'm based in Turkey
-* 🚀  I'm currently working on [PrimeVue Unstyled POC](http://primevue.org/unstyled/)
+* 🚀  I'm currently working on Primeflex 4.0 docs
 * 🤝  I'm open to collaborating on fun projects that will help mostly devs and designers
 * ⚡  Let's collaborate and create great user experiences through good design and community engagement! 🚀
 
