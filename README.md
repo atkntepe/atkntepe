@@ -10,8 +10,6 @@ Community engagement is at the heart of what I do, bridging the gap between deve
 
 * 🌍  I'm based in Turkey
 * 🚀  I'm currently working on Primeflex 4.0 docs
-* 🤝  I'm open to collaborating on fun projects that will help mostly devs and designers
-* ⚡  Let's collaborate and create great user experiences through good design and community engagement! 🚀
 
 <a href="https://www.twitter.com/atkntepe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/atkntepe?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
