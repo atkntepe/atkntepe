@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atakan
 ==============================================================================================================================
 
-UI Developer & Lead Dev of Primeflex
+Lead Developer of PrimeFlex & Community Manager
 ------------------------------------
 
 I'm a UI Developer and the Lead Developer of PrimeFlex, a part of the renowned Prime UI libraries like PrimeNG. My work involves creating intuitive and visually appealing user interfaces, strongly focusing on front-end technologies. One of the most rewarding aspects of my work is building and nurturing a passionate community around the products I develop. I firmly believe that an engaged and active user community is crucial for enhancing the product and driving its evolution. In addition to my professional work, I enjoy working on side projects, which allow me to explore new technologies and concepts.
