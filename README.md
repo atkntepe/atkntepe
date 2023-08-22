@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Developer of PrimeFlex & Community Manager
 ------------------------------------
 
-I'm a UI Developer and the Lead Developer of PrimeFlex, a part of the renowned Prime UI libraries like PrimeNG. My work involves creating intuitive and visually appealing user interfaces, strongly focusing on front-end technologies. One of the most rewarding aspects of my work is building and nurturing a passionate community around the products I develop. I firmly believe that an engaged and active user community is crucial for enhancing the product and driving its evolution. In addition to my professional work, I enjoy working on side projects, which allow me to explore new technologies and concepts.
+As Lead Developer of PrimeFlex and Community Manager at PrimeTek Informatics, I focus on crafting user-friendly interfaces and actively engaging with our community. My work extends to various projects like the PrimeVue Unstyled Tailwind theme and improving premium templates.
+
+Community engagement is at the heart of what I do, bridging the gap between development and users. My new role as Community Manager amplifies this connection, ensuring our products continue to grow and resonate with our community.
 
 * 🌍  I'm based in Turkey
 * 🚀  I'm currently working on Primeflex 4.0 docs
