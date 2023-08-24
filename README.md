@@ -9,7 +9,7 @@ As Lead Developer of PrimeFlex and Community Manager at PrimeTek Informatics, I 
 Community engagement is at the heart of what I do, bridging the gap between development and users. My new role as Community Manager amplifies this connection, ensuring our products continue to grow and resonate with our community.
 
 * 🌍  I'm based in Turkey
-* 🚀  I'm currently working on Primeflex 4.0 docs
+* 🚀  I'm currently working on Primeflex 4.0
 
 <a href="https://www.twitter.com/atkntepe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/atkntepe?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
