@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atakan
 ==============================================================================================================================
 
-Lead Developer of PrimeFlex & Community Manager
+Lead Developer of PrimeFlex
 ------------------------------------
 
 As Lead Developer of PrimeFlex and Community Manager at PrimeTek Informatics, I focus on crafting user-friendly interfaces and actively engaging with our community. My work extends to various projects like the PrimeVue Unstyled Tailwind theme and improving premium templates.
