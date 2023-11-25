@@ -5,7 +5,7 @@ Lead Developer of PrimeFlex
 ------------------------------------
 
 Hey there! 
-I'm the lead developer of PrimeFlex and a dedicated Frontend / UI developer at PrimeTek. I spend my days building sleek, user-friendly interfaces and helping others do the same. Beyond coding, I'm passionate about every slice of product development – from sparking ideas in design to sparking conversations in the community. I’m all about collaboration, sharing knowledge, and keeping the fun in the functional.
+I'm a Lead UI Developer at PrimeTek, where I focus on bringing design to life through engaging, user-friendly interfaces. My role revolves around leading UI development projects, mentoring my team, and ensuring our products excel in both form and function. I'm deeply passionate about every aspect of product development, from initial design concepts to fostering community engagement. My goal is to blend collaboration, innovation, and fun, creating products that resonate with users and developers alike.
 
 * 🌍  I'm based in Turkey
 * 🚀  I'm currently working on Primeflex 4.0
