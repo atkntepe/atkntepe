@@ -10,6 +10,7 @@ I'm a Lead UI Developer at PrimeTek, where I focus on bringing design to life th
 * 🌍  I'm based in Turkey
 * 🚀  I'm currently working on [PrimeVue x Tailwind Presets & New Showcase
 ](https://tailwind.primevue.org/)
+
 <a href="https://www.twitter.com/atkntepe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/atkntepe?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
