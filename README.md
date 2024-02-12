@@ -1,18 +1,14 @@
-Hi, My name is Atakan
-==============================================================================================================================
+Hi, I'm Atakan Tepe
 
-Lead UI Developer at PrimeFaces
-------------------------------------
+Lead UI Developer at PrimeTek (makers of PrimeVue, PrimeNG, PrimeReact)
+Building intuitive and beautiful interfaces.
+Passionate about frontend development, design, and open-source.
+Based in Turkey 🇹🇷
+Currently Working On:
 
-Hey there! 
-I'm a Lead UI Developer at PrimeTek, where I focus on bringing design to life through engaging, user-friendly interfaces. My role revolves around leading UI development projects, mentoring my team, and ensuring our products excel in both form and function. I'm deeply passionate about every aspect of product development, from initial design concepts to fostering community engagement. My goal is to blend collaboration, innovation, and fun, creating products that resonate with users and developers alike.
+PrimeVue x Tailwind Presets & New Showcase: https://tailwind.primevue.org/
+Find Me On:
 
-* 🌍  I'm based in Turkey
-* 🚀  I'm currently working on [PrimeVue x Tailwind Presets & New Showcase
-](https://tailwind.primevue.org/)
-
-<a href="https://www.twitter.com/atkntepe" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/atkntepe?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
-/></a>
-
+Twitter: https://www.twitter.com/atkntepe
+LinkedIn: https://www.linkedin.com/in/atakantepe/
 
