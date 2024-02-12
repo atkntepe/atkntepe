@@ -1,4 +1,4 @@
-### Hi, I'm Atakan Tepe
+### Hi, I'm Atakan
 
 - Lead UI Developer at PrimeTek (makers of PrimeVue, PrimeNG, PrimeReact)
 - Building intuitive and beautiful interfaces.
