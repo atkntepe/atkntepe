@@ -7,7 +7,9 @@
 
 #### Currently Working On:
 
-- PrimeVue x Tailwind Presets & New Showcase: https://tailwind.primevue.org/
+- PrimeVue x Tailwind Presets & New Showcase
+   - Website: https://tailwind.primevue.org/
+   - Repo: https://github.com/primefaces/primevue-tailwind
 
   
 #### Find Me On:
