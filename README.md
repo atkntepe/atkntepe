@@ -3,7 +3,7 @@
 - Lead UI Developer at PrimeTek (makers of PrimeVue, PrimeNG, PrimeReact)
 - Building intuitive and beautiful interfaces.
 - Passionate about frontend development, design, and open-source.
-- Based in Turkey 🇹🇷
+- Based in Turkiye 🇹🇷
 
 #### Currently Working On:
 
