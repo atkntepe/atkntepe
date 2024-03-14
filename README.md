@@ -15,5 +15,4 @@
 #### Find Me On:
 
 - Twitter: https://www.x.com/atkntepe
-- LinkedIn: https://www.linkedin.com/in/atakantepe/
 
