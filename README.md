@@ -1,6 +1,10 @@
 ## 💫 Hi, I'm Atakan
 🔭 I’m currently working on: 
-- PrimeBlocks with Tailwindcss 
+- PrimeBlocks with Tailwindcss (Vue.js, PrimeVue)
+
+🌟 Side projects I am working on: 
+- Tailwind cheat sheet (React.js)
+- Habit tracking app (React Native)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atakantepe) [![X/Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atkntepe) 
