@@ -3,6 +3,7 @@
 - PrimeBlocks with Tailwindcss (Vue.js, PrimeVue)
 
 🌟 Side projects I am working on: 
+- PrimeVue Tailwind Wind Preset: [Repo](https://github.com/atakantepe/primevue-tailwind-wind)
 - Tailwind cheat sheet (React.js)
 - Habit tracking app (React Native)
 
