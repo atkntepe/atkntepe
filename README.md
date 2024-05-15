@@ -4,7 +4,7 @@
 
 🌟 Side projects I am working on: 
 - PrimeVue Tailwind Wind Preset: [Repo](https://github.com/atakantepe/primevue-tailwind-wind)
-- Tailwind cheat sheet (React.js)
+- Tailwind cheat sheet (React.js): [Repo](https://github.com/atakantepe/tailwind-cheat-sheet)
 - Habit tracking app (React Native)
 
 ### 🌐 Socials:
