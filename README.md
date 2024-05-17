@@ -8,7 +8,7 @@
   
 - **ChatGpt Color Palette** (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0)
   
-- **Tailwind Cheat Sheet (React.js):** [Check it out](https://github.com/atakantepe/tailwind-cheat-sheet)
+- **Tailwind Cheat Sheet (React.js):** [Explore the repo](https://github.com/atakantepe/tailwind-cheat-sheet)
   
 - **Habit Tracking App (React Native):** Improving productivity through intuitive design.
 
