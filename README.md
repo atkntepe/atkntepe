@@ -6,11 +6,13 @@
 🌟 **Side projects I'm working on:** 
 - **PrimeVue Tailwind Wind Preset:** [Explore the repo](https://github.com/atakantepe/primevue-tailwind-wind)
   
-- **ChatGpt Color Palette** (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0)
-  
 - **Tailwind Cheat Sheet (React.js):** [Explore the repo](https://github.com/atakantepe/tailwind-cheat-sheet)
   
 - **Habit Tracking App (React Native):** Improving productivity through intuitive design.
+
+
+✨ **Just for fun projects:** 
+- **ChatGpt Color Palette** (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0)
 
 
 I'm focused on creating useful products for the PrimeEcosystem and building my own open-source projects. Follow along for updates!
