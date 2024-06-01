@@ -1,9 +1,9 @@
 ## 💫 Hi, I'm Atakan
 
-🔭 **Currently working on:** 
+🔭 Currently working on: 
 - **PrimeBlocks:** Developing UI Blocks with TailwindCSS and PrimeVue, with future support for PrimeReact and PrimeNG.
 
-🌟 **Side projects I'm working on:** 
+🌟 Side projects I'm working on: 
 - **PrimeVue Tailwind Wind Preset:** [Explore the repo](https://github.com/atakantepe/primevue-tailwind-wind)
   
 - **Tailwind Cheat Sheet (v0.1.0):** [Check it out](https://www.atakantepe.com/tailwind-cheat-sheet/) or [Explore the repo](https://github.com/atakantepe/tailwind-cheat-sheet)
