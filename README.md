@@ -8,7 +8,6 @@
   
 - Tailwind Cheat Sheet (v0.1.0): [Check it out](https://www.atakantepe.com/tailwind-cheat-sheet/) or [Explore the repo](https://github.com/atakantepe/tailwind-cheat-sheet)
   
-- Habit Tracking App (IOS & Android): Improving productivity through intuitive design.
 
 
 ✨ **Just for fun projects:** 
