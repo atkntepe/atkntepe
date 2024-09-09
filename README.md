@@ -4,7 +4,7 @@
 - PrimeBlocks: Developing UI Blocks with TailwindCSS and PrimeVue, with future support for PrimeReact and PrimeNG.
 
 ✨ **Just for fun projects:** 
-- EasyLeetSpeak (Chrome Extension): Coming soon on the Chrome Web Store!  [Explore the Repo](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0](https://github.com/atakantepe/atakantepe/edit/main/README.md)) 
+- EasyLeetSpeak (Chrome Extension): Coming soon on the Chrome Web Store!  [Explore the Repo](https://github.com/atakantepe/easyleetspeak) 
 - ChatGpt Color Palette (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0)
 
 Follow along for updates!
