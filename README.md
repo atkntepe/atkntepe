@@ -3,18 +3,11 @@
 🔭 Currently working on: 
 - PrimeBlocks: Developing UI Blocks with TailwindCSS and PrimeVue, with future support for PrimeReact and PrimeNG.
 
-🌟 Side projects I'm working on: 
-- PrimeVue Tailwind Wind Preset: [Explore the repo](https://github.com/atakantepe/primevue-tailwind-wind)
-  
-- Tailwind Cheat Sheet (v0.1.0): [Check it out](https://www.atakantepe.com/tailwind-cheat-sheet/) or [Explore the repo](https://github.com/atakantepe/tailwind-cheat-sheet)
-  
-
-
 ✨ **Just for fun projects:** 
+- EasyLeetSpeak (Chrome Extension): Coming soon on the Chrome Web Store!  [Explore the repo]([https://github.com/atakantepe/tailwind-cheat-sheet](https://github.com/atakantepe/atakantepe/edit/main/README.md))
 - ChatGpt Color Palette (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0)
 
-
-I'm focused on creating useful products for the PrimeEcosystem and building my own open-source projects. Follow along for updates!
+Follow along for updates!
 
 ### 🌐 Socials:
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atakantepe) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atkntepe) 
