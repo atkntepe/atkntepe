@@ -1,7 +1,7 @@
 ## 💫 Hi, I'm Atakan
 
 🔭 Currently working on: 
-- PrimeBlocks: Developing UI Blocks with TailwindCSS and PrimeVue, with future support for PrimeReact and PrimeNG.
+- PrimeVue Tailwind: Back to working on Tailwind Presets.
 
 ✨ **Just for fun projects:** 
 - EasyLeetSpeak (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/easyleetspeak/ejeeckeijcimcpikccilhcpdjjbkadee?authuser=0&hl=en-GB) or [Explore the Repo](https://github.com/atakantepe/easyleetspeak) 
