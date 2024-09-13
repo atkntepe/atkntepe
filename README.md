@@ -1,13 +1,16 @@
-## 💫 Hi, I'm Atakan
+## 🚀 Hey, I'm Atakan
 
-🔭 Currently working on: 
-- PrimeVue Tailwind: Back to working on Tailwind Presets. [Explore the Repo](https://github.com/primefaces/primevue-tailwind) 
+Always building, always experimenting. Here’s what I’ve been up to:
 
-✨ **Just for fun projects:** 
-- EasyLeetSpeak (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/easyleetspeak/ejeeckeijcimcpikccilhcpdjjbkadee?authuser=0&hl=en-GB) or [Explore the Repo](https://github.com/atakantepe/easyleetspeak) 
-- ChatGpt Color Palette (Chrome Extension): [Check it out](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0)
+### 🔥 Currently Focused On:
+- **PrimeVue Tailwind**: Bringing updated Tailwind Presets to PrimeVue. [Check it out](https://github.com/primefaces/primevue-tailwind).
 
-Follow along for updates!
+### ⚡ Side Projects (for Fun and Learning):
+- **EasyLeetSpeak (Chrome Extension)**: Because we all need a bit of fun slang once in a while. [Chrome Extension](https://chromewebstore.google.com/detail/easyleetspeak/ejeeckeijcimcpikccilhcpdjjbkadee?authuser=0&hl=en-GB) | [GitHub Repo](https://github.com/atakantepe/easyleetspeak)
+- **ChatGpt Color Palette (Chrome Extension)**: A fun tool for changing your Chat-GPT experience. [Chrome Extension](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0) | 
+
+I’m always on the lookout for new challenges and interesting projects. Follow along for some development fun. If you want to collaborate or just geek out over tech, I’m around.
+
 
 ### 🌐 Socials:
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atakantepe) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atkntepe) 
