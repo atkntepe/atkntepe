@@ -1,6 +1,6 @@
 ### 🚀 Hey, I'm Atakan
 
-##### Always building, always experimenting. Here’s what I’ve been up to:
+✨ Always building, always experimenting. Here’s what I’ve been up to:
 
 #### 🔥 Currently Focused On:
 - **PrimeVue Tailwind**: Bringing updated Tailwind Presets to PrimeVue. [Check it out](https://github.com/primefaces/primevue-tailwind).
