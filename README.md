@@ -1,13 +1,10 @@
-### 🚀 Hey, I'm Atakan
+### Hey, I'm Atakan
 
-✨ Always building, always experimenting. Here’s what I’ve been up to:
+ Always building, always experimenting. Here’s what I’ve been up to:
 
-#### 🔥 Currently Focused On:
+#### Currently Focused On:
 - **PrimeVue Tailwind**: Bringing updated Tailwind Presets to PrimeVue. [Check it out](https://github.com/primefaces/primevue-tailwind).
 
-#### ⚡ Side Projects (for Fun and Learning):
-
-- **ChatGpt Color Palette (Chrome Extension)**: A fun tool for changing your Chat-GPT experience. [Chrome Extension](https://chromewebstore.google.com/detail/chatgpt-color-palette/aciphlinjcaocamlhcmmebaeaepfijco?hl=en-GB&authuser=0) | 
 
 I’m always on the lookout for new challenges and interesting projects. Follow along for some development fun. If you want to collaborate or just geek out over tech, I’m around.
 
