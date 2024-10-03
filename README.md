@@ -25,8 +25,3 @@ Tools for Making Things Look Good 🎨
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
----
-
-#### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atakantepe)
-[![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atkntepe)
