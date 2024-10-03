@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Atakan 🛠️
 
-I'm a front-end developer with a background in creating user interfaces for web applications. I specialize in building interactive, performant, and user-friendly experiences using modern technologies like React, Vue, and TailwindCSS. I am always exploring new ideas, pushing boundaries, and delivering impactful solutions.
+UI Team Lead @primefaces | Open-source | Crafting cool stuff | Exploring and building
 
 #### What I'm Currently Working On
 
