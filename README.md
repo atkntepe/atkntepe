@@ -1,20 +1,32 @@
-### Hey, I'm Atakan
+![Imagine Explore Build](https://github.com/user-attachments/assets/19f5ec9e-2e2c-4018-9c50-54ff7b85b94f)
 
- Always building, always experimenting. Here’s what I’ve been up to:
+### Hey there, I'm Atakan 🛠️
 
-#### Currently Focused On:
-- **PrimeVue Tailwind**: Bringing updated Tailwind Presets to PrimeVue. [Check it out](https://github.com/primefaces/primevue-tailwind).
+I'm a front-end developer with a background in creating user interfaces for web applications. I specialize in building interactive, performant, and user-friendly experiences using modern technologies like React, Vue, and TailwindCSS. I am always exploring new ideas, pushing boundaries, and delivering impactful solutions.
 
+#### What I'm Currently Working On
 
-I’m always on the lookout for new challenges and interesting projects. Follow along for some development fun. If you want to collaborate or just geek out over tech, I’m around.
+- **PrimeVue Tailwind**: Elevating PrimeVue with sleek Tailwind presets. Always iterating, always improving. [Check it out](https://github.com/primefaces/primevue-tailwind).
 
+#### Exploring 🔍
+Constantly on the lookout for new challenges, creative solutions, and the next cool thing in tech. Feel free to reach out if you’re into experimenting and building awesome stuff.
 
-### 🌐 Socials:
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atakantepe) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atkntepe) 
+> *If you're up for a collaboration or want to geek out about tech, I'm always around.*
 
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br/>
-<br/>
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+### ⚙️ Tech Playground
+
+Here’s the toolkit I wield:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+
+Tools for Making Things Look Good 🎨 
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+#### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atakantepe)
+[![X](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atkntepe)
