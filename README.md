@@ -4,10 +4,6 @@
 
 UI Team Lead @primefaces | Open-source | Crafting cool stuff | Exploring and building
 
-#### What I'm Currently Working On
-
-- **PrimeVue Tailwind**: Elevating PrimeVue with sleek Tailwind presets. Always iterating, always improving. [Check it out](https://github.com/primefaces/primevue-tailwind).
-
 #### Exploring 🔍
 Constantly on the lookout for new challenges, creative solutions, and the next cool thing in tech. Feel free to reach out if you’re into experimenting and building awesome stuff.
 
