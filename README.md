@@ -1,1 +1,1 @@
-<img width="1920" height="1100" alt="wizard-rooooom11-txt" src="https://github.com/user-attachments/assets/c37d6366-5eb0-4caa-92b1-bec2f6767a0f" />
+<img width="1920" height="480" alt="github-profile-banner-1920x480" src="https://github.com/user-attachments/assets/961d54ab-08f4-463a-8e3a-7019bce0abf4" />
