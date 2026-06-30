@@ -28,21 +28,3 @@
   </tr>
 </table>
 
-### side quests
-
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/atkntepe/skillbox">skillbox</a></h3>
-      <p>
-        a growing collection of AI/Codex skills built from real workflow annoyances,
-        experiments, and “wait, this should be reusable” moments.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20skills-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/workflows-111827?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
