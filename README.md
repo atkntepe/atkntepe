@@ -4,9 +4,6 @@
 
 <h2>hey, i'm atakan</h2>
 
-<p>
-  frontend at primefaces. i build stuff, collect ideas, and turn distractions into side quests.
-</p>
 
 <table>
   <tr>
