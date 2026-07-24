@@ -4,6 +4,11 @@
 
 <h2>hey, i'm atakan</h2>
 
+i build interfaces, component libraries, and products that try to make complicated things feel obvious.
+
+<h3>what i'm building now</h3>
+
+working on PrimeUI Pro components—especially Scheduler and TaskBoard—bringing them across Vue, Angular, and React, and making the experience better with each version.
 
 <table>
   <tr>
@@ -24,4 +29,3 @@
     </td>
   </tr>
 </table>
-
