@@ -4,7 +4,9 @@
 
 <h2>hey, i'm atakan</h2>
 
-i build interfaces, component libraries, and products that try to make complicated things feel obvious.
+i build interfaces, component libraries, and products.
+
+right now, i'm exploring better ways to build products with ai, experimenting with workflows and tools that improve the development process.
 
 <h3>what i'm building now</h3>
 
