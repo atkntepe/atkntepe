@@ -14,7 +14,11 @@ working on primeui pro components, especially scheduler and taskboard, bringing 
 
 <h3>most used languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkntepe&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2f81f7&amp;text_color=6e7781&amp;icon_color=2f81f7" alt="Most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atkntepe&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atkntepe&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atkntepe&amp;theme=github" alt="Most used languages" />
+</picture>
 
 <table>
   <tr>
