@@ -12,14 +12,6 @@ right now, i'm exploring better ways to build products with ai, experimenting wi
 
 working on primeui pro components, especially scheduler and taskboard, bringing them across vue, angular, and react, and making the experience better with each version.
 
-<h3>most used languages</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atkntepe&amp;theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atkntepe&amp;theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atkntepe&amp;theme=github" alt="Most used languages" />
-</picture>
-
 <table>
   <tr>
     <td align="center" bgcolor="#111827" width="44" height="32">
