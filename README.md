@@ -12,6 +12,10 @@ right now, i'm exploring better ways to build products with ai, experimenting wi
 
 working on primeui pro components, especially scheduler and taskboard, bringing them across vue, angular, and react, and making the experience better with each version.
 
+<h3>most used languages</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkntepe&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2f81f7&amp;text_color=6e7781&amp;icon_color=2f81f7" alt="Most used languages" />
+
 <table>
   <tr>
     <td align="center" bgcolor="#111827" width="44" height="32">
